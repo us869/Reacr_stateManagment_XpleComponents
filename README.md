@@ -1,2 +1,0 @@
-# Reacr_stateManagment_XpleComponents
-Created with CodeSandbox
